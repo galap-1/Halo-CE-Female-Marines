@@ -8,9 +8,16 @@ I decided to undertake the rather daunting task of trying to make female human c
 Credits:
 
 rigging: Galap
+
 Animation retargeting: Galap
+
 Light armor model: Galap
+
 Pilot and bomberjacket model editing: Galap
+
 'Hikowa' alternate face and head model: Connor Dawn
+
 Unarmored models: Mynameislol
+
 Armored models: Mynameislol
+
