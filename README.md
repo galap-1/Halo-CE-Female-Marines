@@ -21,3 +21,7 @@ Unarmored models: Mynameislol
 
 Armored models: Mynameislol
 
+
+
+Update: 12-16-23:
+I have added many new animations, such as 2-handed pistol animations, better animatons for plasma pistol, banshee, scorpion driver, cryo tube, and also some animations that the AI does't use, such as melee, moving unarmed crouch (which is in the tag but not set up) and a faster grenade throw (which has something wrong with it, I'm not sure what to do about this) that could potentially be used for a player-controlled biped. female_marine_256.model animations is there for legacy custom edition support, and doesn't have any new animations (CE has a maximum of 256 anims). Chimera enables expansion of this limit however.
