@@ -15,7 +15,7 @@ Light armor model: Galap
 
 Pilot and bomberjacket model editing: Galap
 
-'Hikowa' alternate face and head model: Connor Dawn
+'Hikowa' alternate face and head model: Ludus
 
 Unarmored models: Mynameislol
 
